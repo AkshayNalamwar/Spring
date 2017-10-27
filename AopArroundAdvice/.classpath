@@ -3,5 +3,10 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mylibb"/>
+	<classpathentry kind="lib" path="C:/Users/t05049/Downloads/jamonall-2.81/jamonall-2.81/jamon-2.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t05049/Downloads/jamonall-2.81/jamonall-2.81/jamon-2.81-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t05049/Downloads/jamonall-2.81/jamonall-2.81/jamon-2.81-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t05049/Downloads/jamonall-2.81/jamonall-2.81/jamon-osmon-2.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t05049/Downloads/jamonall-2.81/jamonall-2.81/jamontomcat-2.81.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
